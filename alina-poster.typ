@@ -3,7 +3,7 @@
  * Alina Poster Template
  *
  * Version: 0.0.1
- * License: CC-I don't know.
+ * License: CC-BY-SA 4.0
  * Author: Jérémy La Scala <jeremy.lascala@epfl.ch>
  */
 
