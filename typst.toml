@@ -1,0 +1,9 @@
+[package]
+name = "alina-poster"
+version = "0.0.1"
+entrypoint = "alina-poster.typ"
+authors = ["Jérémy La Scala"]
+license = ""
+description = "Poster template for typst"
+repository = ""
+exclude = ["README.md"]
